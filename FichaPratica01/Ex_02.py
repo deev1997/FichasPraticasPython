@@ -1,5 +1,3 @@
-#olaadeus
-
 # Ler num1
 print("Introduza um numero: ")
 num1 = int(input())
