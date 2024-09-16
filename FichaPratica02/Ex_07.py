@@ -1,5 +1,4 @@
-print("Introduza um numero:")
-num = int(input())
+num = int(input("Introduza um numero:"))
 
 if num % 2 == 0:
     print("O numero é par")

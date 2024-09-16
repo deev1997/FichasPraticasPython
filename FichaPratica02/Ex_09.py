@@ -1,9 +1,6 @@
-print("Introduza um numero:")
-num1 = int(input())
-print("Introduza um numero:")
-num2 = int(input())
-print("Introduza um numero:")
-num3 = int(input())
+num1 = int(input("Introduza um numero:"))
+num2 = int(input("Introduza um numero:"))
+num3 = int(input("Introduza um numero:"))
 
 menor = num1
 if num2 < menor:

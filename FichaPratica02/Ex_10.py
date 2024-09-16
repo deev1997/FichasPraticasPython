@@ -1,9 +1,6 @@
-print("Introduza um numero:")
-num1 = int(input())
-print("Introduza outro numero:")
-num2 = int(input())
-print("Qual a operacao aritmetica que quer fazer?")
-op = input()
+num1 = int(input("Introduza um numero:"))
+num2 = int(input("Introduza outro numero:"))
+op = input("Qual a operacao aritmetica que quer fazer?")
 
 if op == '+':
     print(f"{num1} + {num2} = {num1+num2}")

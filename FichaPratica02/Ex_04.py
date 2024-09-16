@@ -1,5 +1,4 @@
-print("Introduza o seu lugar na corrida:")
-lugar = int(input())
+lugar = int(input("Introduza o seu lugar na corrida:"))
 
 if lugar == 1:
     print("Ganhou 10 pontos")

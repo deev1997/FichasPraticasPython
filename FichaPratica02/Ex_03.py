@@ -1,5 +1,4 @@
-print("Introduza um salario:")
-salario = int(input())
+salario = int(input("Introduza um salario:"))
 
 if salario <= 15000:
     print(f"Paga taxa de 20%: {int(salario * 0.2)}€")
